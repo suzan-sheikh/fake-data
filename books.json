@@ -7,10 +7,10 @@
     "category": "Fiction",
     "review": "A captivating tale of self-discovery and destiny.",
     "tags": ["Adventure", "Philosophy"],
-    "totalPages": 208,
+    "totalPages": 560,
     "publisher": "HarperCollins",
     "yearOfPublishing": 1995,
-    "rating": 3.5
+    "rating": 8.5
   },
   {
     "id" : 2,
@@ -20,10 +20,10 @@
     "category": "Classic",
     "review": "A poignant portrayal of justice and morality.",
     "tags": ["Social", "comic"],
-    "totalPages": 336,
+    "totalPages": 220,
     "publisher": "J. B. Lippincott & Co.",
     "yearOfPublishing": 2010,
-    "rating": 5.8
+    "rating": 9.8
   },
   {
     "id" : 3,
@@ -33,7 +33,7 @@
     "category": "Classic",
     "review": "An exploration of the American Dream and its consequences.",
     "tags": ["Romance", "Tragedy"],
-    "totalPages": 180,
+    "totalPages": 880,
     "publisher": "Charles Scribner's Sons",
     "yearOfPublishing": 2024,
     "rating": 2.4
@@ -59,10 +59,10 @@
     "category": "Classic",
     "review": "A timeless romance with wit and social commentary.",
     "tags": ["Romance", "Satire"],
-    "totalPages": 836,
+    "totalPages": 340,
     "publisher": "T. Egerton, Whitehall",
     "yearOfPublishing": 1813,
-    "rating": 1.8
+    "rating": 11.9
   },
   {
     "id" : 6,
@@ -72,10 +72,10 @@
     "category": "Coming-of-Age",
     "review": "An iconic coming-of-age novel that resonates with teenagers and adults alike.",
     "tags": ["Alienation", "Teen"],
-    "totalPages": 102,
+    "totalPages": 980,
     "publisher": "Little, Brown and Company",
     "yearOfPublishing": 1842,
-    "rating": 6.5
+    "rating": 2.5
   },
   {
     "id" : 7,
@@ -87,7 +87,7 @@
     "tags": ["Magic", "Adventure"],
     "totalPages": 600,
     "publisher": "Bloomsbury",
-    "yearOfPublishing": 2008,
+    "yearOfPublishing": 2007,
     "rating": 9.7
   },
   {
@@ -101,7 +101,7 @@
     "totalPages": 80,
     "publisher": "Allen & Unwin",
     "yearOfPublishing": 1937,
-    "rating": 4.8
+    "rating": 10.8
   },
   {
     "id" : 9,
@@ -111,7 +111,7 @@
     "category": "Fantasy",
     "review": "An epic tale of good versus evil in a richly imagined world.",
     "tags": ["Adventure", "Epic"],
-    "totalPages": 890,
+    "totalPages": 100,
     "publisher": "George Allen & Unwin",
     "yearOfPublishing": 2023,
     "rating": 2.7
