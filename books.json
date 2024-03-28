@@ -9,8 +9,8 @@
     "tags": ["Adventure", "Philosophy"],
     "totalPages": 208,
     "publisher": "HarperCollins",
-    "yearOfPublishing": 1988,
-    "rating": 4.5
+    "yearOfPublishing": 1995,
+    "rating": 3.5
   },
   {
     "id" : 2,
@@ -22,8 +22,8 @@
     "tags": ["Social", "comic"],
     "totalPages": 336,
     "publisher": "J. B. Lippincott & Co.",
-    "yearOfPublishing": 1960,
-    "rating": 4.8
+    "yearOfPublishing": 2010,
+    "rating": 5.8
   },
   {
     "id" : 3,
@@ -35,8 +35,8 @@
     "tags": ["Romance", "Tragedy"],
     "totalPages": 180,
     "publisher": "Charles Scribner's Sons",
-    "yearOfPublishing": 1925,
-    "rating": 4.4
+    "yearOfPublishing": 2024,
+    "rating": 2.4
   },
   { 
     "id" : 4,
@@ -48,8 +48,8 @@
     "tags": ["Political", "Social"],
     "totalPages": 328,
     "publisher": "Secker & Warburg",
-    "yearOfPublishing": 1949,
-    "rating": 4.7
+    "yearOfPublishing": 2011,
+    "rating": 10.7
   },
   {
     "id" : 5,
@@ -59,10 +59,10 @@
     "category": "Classic",
     "review": "A timeless romance with wit and social commentary.",
     "tags": ["Romance", "Satire"],
-    "totalPages": 336,
+    "totalPages": 836,
     "publisher": "T. Egerton, Whitehall",
     "yearOfPublishing": 1813,
-    "rating": 4.8
+    "rating": 1.8
   },
   {
     "id" : 6,
@@ -72,10 +72,10 @@
     "category": "Coming-of-Age",
     "review": "An iconic coming-of-age novel that resonates with teenagers and adults alike.",
     "tags": ["Alienation", "Teen"],
-    "totalPages": 180,
+    "totalPages": 102,
     "publisher": "Little, Brown and Company",
-    "yearOfPublishing": 1951,
-    "rating": 4.5
+    "yearOfPublishing": 1842,
+    "rating": 6.5
   },
   {
     "id" : 7,
@@ -85,10 +85,10 @@
     "category": "Fantasy",
     "review": "A magical journey into the world of wizardry and wonder.",
     "tags": ["Magic", "Adventure"],
-    "totalPages": 328,
+    "totalPages": 600,
     "publisher": "Bloomsbury",
-    "yearOfPublishing": 1997,
-    "rating": 4.7
+    "yearOfPublishing": 2008,
+    "rating": 9.7
   },
   {
     "id" : 8,
@@ -98,7 +98,7 @@
     "category": "Fantasy",
     "review": "A delightful adventure filled with dwarves, dragons, and a reluctant hero.",
     "tags": ["Adventure", "Epic Fantasy"],
-    "totalPages": 336,
+    "totalPages": 80,
     "publisher": "Allen & Unwin",
     "yearOfPublishing": 1937,
     "rating": 4.8
@@ -111,9 +111,9 @@
     "category": "Fantasy",
     "review": "An epic tale of good versus evil in a richly imagined world.",
     "tags": ["Adventure", "Epic"],
-    "totalPages": 328,
+    "totalPages": 890,
     "publisher": "George Allen & Unwin",
-    "yearOfPublishing": 1954,
-    "rating": 4.7
+    "yearOfPublishing": 2023,
+    "rating": 2.7
   }  
 ]
